@@ -1,5 +1,9 @@
-* {background-color: rgb(255, 243, 132);}
+* {background-color: rgb(255, 245, 151);}
 
 .words {
+    font: 1em sans-serif;
+};
+
+.subtitle {
     font: 1em sans-serif;
 };
