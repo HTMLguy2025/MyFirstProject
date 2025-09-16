@@ -1,4 +1,10 @@
-* {background-color: rgb(255, 245, 151);}
+.egg {
+    background-color: rgb(255, 245, 151);
+};
+
+.bread {
+    background-color: rgb(190, 164, 123);
+};
 
 .words {
     font: 1em sans-serif;
