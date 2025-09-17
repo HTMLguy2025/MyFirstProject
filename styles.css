@@ -3,6 +3,10 @@
 }
 
 .bread {
+    background-color: rgb(255, 226, 189);
+}
+
+.sausage {
     background-color: rgb(235, 201, 138);
 }
 
@@ -12,4 +16,8 @@
 
 .subtitle {
     font: 1em sans-serif;
+}
+
+.titlePage {
+    background-color: antiquewhite;
 }
