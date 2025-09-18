@@ -12,6 +12,7 @@
 
 .words {
     font: 1em sans-serif;
+    color:rgb(41, 41, 41)
 }
 
 .subtitle {
@@ -20,4 +21,24 @@
 
 .titlePage {
     background-color: antiquewhite;
+}
+
+.links {
+    font: 1em sans-serif;
+    transition-duration: 0.3s;
+    color:rgb(65, 131, 255)
+}
+
+.links:hover {
+    color: rgb(0, 4, 255)
+}
+
+.sausage_links {
+    font: 1em sans-serif;
+    transition-duration: 0.3s;
+    color:rgb(20, 102, 255)
+}
+
+.sausage_links:hover {
+    color:rgb(0, 4, 255)
 }
