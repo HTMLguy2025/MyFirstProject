@@ -44,3 +44,8 @@
     padding-left: 15px;
     color:rgb(0, 4, 255);
 }
+
+ul li {
+    list-style-image: url("list-bullet.png");
+    padding-left: 10px;
+}
