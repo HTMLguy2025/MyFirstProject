@@ -49,3 +49,8 @@ ul li {
     list-style-image: url("list-bullet.png");
     padding-left: 10px;
 }
+
+.titles {
+    font-size: 35px;
+    font-family: Merriweather, sans-serif;
+}
